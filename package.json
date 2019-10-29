@@ -1,0 +1,15 @@
+{
+  "name": "node-ffi-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./index.js"
+  },
+  "repository": "https://github.com/wrule/node-ffi-demo",
+  "author": "鸡毛 <shihao.gu@perfma.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ffi": "^2.3.0"
+  }
+}
